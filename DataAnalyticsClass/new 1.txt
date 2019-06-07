@@ -1,0 +1,30 @@
+Algorithm:
+She says to subtract 32 from the Fahrenheit temperature and then multiply that value by 5/9.
+
+Pseudocode:
+
+
+Do
+
+    Prompt user for fahreheitTemp 
+    Get fahreheitTemp
+    Calculate celciusTemp = (fahreheitTemp - 32) * 5/9
+    Display celciusTemp
+    Ask user if they want to continue
+Loop until User quits
+
+Next Step:
+    Write the program in Java or Python
+	
+	_________________________________
+	
+Input
+    Fahrenheit temperature
+Processing
+Prompt user for fahreheitTemp
+    Get fahreheitTemp
+	 Calculate celciusTemp = (fahreheitTemp - 32) * 5/9
+    Display celciusTemp
+Output
+    Celcius temperature
+	

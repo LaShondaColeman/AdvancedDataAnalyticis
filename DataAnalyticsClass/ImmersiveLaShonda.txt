@@ -1,0 +1,25 @@
+# Think Like a Programmer Assignment
+# Danielle & LaShonda Step-by-step instructions to navigate to Subway.
+# Start from the door from Room 440 and go to the door at Subway.
+
+Prompt user to exit room 440 to Subway
+
+Do
+Start at entrance to classroom 440.
+Turn left at the door.
+Walk approximately 5 to 10 steps -depending on your gait stride length.
+Turn right
+Walk approximately 5 to 7 steps to elevator control button that's located between the 2 elevator cars.
+Press the elevator button and wait for elevator car.
+Enter whichever elevator car opens.
+Press the 1st (floor) button and ride the elevator car down to the first floor.
+When doors open, exit elevator and walk 6-10 steps to the right towards the glass door.
+Open glass door, and walk 10-18 steps on right diaganol towards the second glass door.
+Open glass door and walk down 6 steps towards the third glass door.
+Exit the door (and building) and turn left.
+Walk 40-54 steps to the crosswalk.
+Turn right at cross walk and take 12-15 steps to the cross the street.
+Once on the other side of the street, walk 17-18 steps to subway's front door.
+Turn clockwise to face the door.
+Open the door.
+Walk through and buy cookies for the class. 
